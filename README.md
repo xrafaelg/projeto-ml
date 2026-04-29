@@ -1,1 +1,88 @@
-# projeto-ml
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML Street</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <header>
+        <nav class="navbar">
+            <ul class="menu">
+                <li><a href="#"><h2><strong>Home</strong></h2></a></li>
+                <li><a href="#servicos"><h2>Servicos</h2></a></li>
+                <li><a href="#contato"><h2>Contato</h2></a></li>
+            </ul>
+
+            <div class="logo"><img src="img/Monograma elegante em preto.png"></div>
+
+            <button class="btn1"><h3>fale conosco</h3><img class="zap"
+                 src="img/whatsapp-svgrepo-com.png" alt="whats"></button>
+        </nav>
+    </header>
+
+    <!-- HERO -->
+    <section class="hero">
+        <img class="logo-main"src="img/Logo moderno em preto e branco (1).png">
+        <h2>o melhor street basico do brasil</h2>
+        <button class="btn"><h3>fale conosco
+        <img class="zap" src="img/whatsapp-svgrepo-com.png" alt="whats">
+        </h3></button>
+    </section>
+
+    <!-- SERVIÇOS -->
+    <section id="servicos" class="servicos">
+        <h1>servicos</h1>
+        <h2 class="desc">
+            Esta loja foi criada por meio descontraído em sala de aula,
+            e hoje somos uma empresa séria e organizada com o intuito de se transformar em empresa mundial.
+        </h2>
+
+        <div class="cards">
+            <div class="card">
+                <img src="img/camisaML 1.png" alt="blusa">
+                <h3>Camisa ML Street</h3>
+                <p>por R$ 119,90</p>
+            </div>
+
+            <div class="card">
+                <img src="img/shortsML 1.png" alt="Shorts">
+                <h3>Shorts ML Street</h3>
+                <p>por R$ 89,90</p>
+            </div>
+
+            <div class="card">
+                <img src="img/ml.png" alt="kit">
+                <h3>Kit ML Street</h3>
+                <p>por R$ 189,90</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTATO -->
+    <section class="contato">
+        <h1>contato</h1>
+        <p>ML Roupas responsável pelo contato ao cliente</p>
+        <p>Atendimento com IA 24h</p>
+        <p>Email: MLroupasstreet@gmail.com</p>
+        <img src="img/whatsapp-svgrepo-com.png" alt="whats">
+        <img src="img/instagram-svgrepo-com.png" alt="insta">
+        <img src="img/facebook-svgrepo-com.png" alt="book">
+          <div class="mapa">
+            <h1>Loja Fisica</h1>
+        <h2>ficou interessado para ter esse experiencia.  <strong>venha conhecer!</strong></h2> 
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.1016069195266!2d-45.42840522387196!3d-23.6365319787482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cd631551d2d585%3A0xbe6efd4b81fb3cd0!2sInstituto%20Federal%20de%20Educa%C3%A7%C3%A3o%2C%20Ci%C3%AAncia%20e%20Tecnologia%20de%20S%C3%A3o%20Paulo%20-%20IFSP%20C%C3%A2mpus%20Caraguatatuba!5e0!3m2!1spt-BR!2sbr!4v1776105600580!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </section>
+<footer class="rodape">
+    <p>
+        copyright &copy; 2026 - desenvolvido por ralile -
+        todos os direito reservados.
+    </p>
+</footer>
+
+</body>
+</html># projeto-ml
